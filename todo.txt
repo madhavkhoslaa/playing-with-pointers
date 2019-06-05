@@ -1,1 +1,2 @@
+pointers to multi dim arrays
 constant points in array formal argumanets
