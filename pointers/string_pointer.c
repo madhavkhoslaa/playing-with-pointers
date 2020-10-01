@@ -12,7 +12,7 @@ void print_str(char c[]){
 void print_pointer(char* x){
 	while(*x !='\0'){
 		printf("%c", *x);
-		x+=1;
+		x=x+1;
 
 	}
 
